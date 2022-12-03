@@ -1,4 +1,4 @@
-# [FM Utopia website](https://fm.reaprx.tk)
+# [Hasindu FM](https://fm.reaprx.tk)
 
 <img src="https://raw.githubusercontent.com/reaprx/FM-Utopia-web/main/assets/css/images/Capture.PNG" >
 
